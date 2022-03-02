@@ -1,4 +1,4 @@
- Twitter-Clone
+ ## Twitter-Clone
 
 ```
 Let's make simple Twitter. Users can post tweets and see everyone's them.
@@ -7,7 +7,7 @@ So there are not user accounts and follow function. You can challenge after you 
 ```
 Check out [LIVE Twitter clone DEMO](https://twitterclone-rehab.herokuapp.com/) here!!
 
-Screenshot 
+<img width="1238" alt="Screen Shot 2022-03-02 at 6 38 56 PM" src="https://user-images.githubusercontent.com/97207356/156468368-8a5c9764-7586-4e4c-962b-dd594b554d11.png"> 
 
 
 ## Tech used
